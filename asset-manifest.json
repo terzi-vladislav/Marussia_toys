@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Marussia_toys/static/css/main.de49c029.chunk.css",
-    "main.js": "/Marussia_toys/static/js/main.a3e3674b.chunk.js",
-    "main.js.map": "/Marussia_toys/static/js/main.a3e3674b.chunk.js.map",
+    "main.js": "/Marussia_toys/static/js/main.5bb50136.chunk.js",
+    "main.js.map": "/Marussia_toys/static/js/main.5bb50136.chunk.js.map",
     "runtime-main.js": "/Marussia_toys/static/js/runtime-main.2ffd5e93.js",
     "runtime-main.js.map": "/Marussia_toys/static/js/runtime-main.2ffd5e93.js.map",
     "static/js/2.c3d2d99f.chunk.js": "/Marussia_toys/static/js/2.c3d2d99f.chunk.js",
     "static/js/2.c3d2d99f.chunk.js.map": "/Marussia_toys/static/js/2.c3d2d99f.chunk.js.map",
     "index.html": "/Marussia_toys/index.html",
-    "precache-manifest.2960ed3d3d16fd25a0aeaf2a126e13f2.js": "/Marussia_toys/precache-manifest.2960ed3d3d16fd25a0aeaf2a126e13f2.js",
+    "precache-manifest.6ab09ea5df6109b81756425056f0a914.js": "/Marussia_toys/precache-manifest.6ab09ea5df6109b81756425056f0a914.js",
     "service-worker.js": "/Marussia_toys/service-worker.js",
     "static/css/main.de49c029.chunk.css.map": "/Marussia_toys/static/css/main.de49c029.chunk.css.map",
     "static/js/2.c3d2d99f.chunk.js.LICENSE": "/Marussia_toys/static/js/2.c3d2d99f.chunk.js.LICENSE",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.2ffd5e93.js",
     "static/js/2.c3d2d99f.chunk.js",
     "static/css/main.de49c029.chunk.css",
-    "static/js/main.a3e3674b.chunk.js"
+    "static/js/main.5bb50136.chunk.js"
   ]
 }
