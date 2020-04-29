@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0fa0882b4064719940c71b8caba8ab4",
+    "revision": "3b3839f194ca3a84a66260277ce9d6cf",
     "url": "/Marussia_toys/index.html"
   },
   {
-    "revision": "58cc89d8b09471b6fac0",
+    "revision": "461977507fdce2a30dd1",
     "url": "/Marussia_toys/static/css/main.de49c029.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Marussia_toys/static/js/2.3d3ba127.chunk.js.LICENSE"
   },
   {
-    "revision": "58cc89d8b09471b6fac0",
-    "url": "/Marussia_toys/static/js/main.44a8b7b5.chunk.js"
+    "revision": "461977507fdce2a30dd1",
+    "url": "/Marussia_toys/static/js/main.d22d885f.chunk.js"
   },
   {
     "revision": "760b5cde1239a822c352",

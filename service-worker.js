@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Marussia_toys/precache-manifest.8c4edb0e6a3d2150830869baad138418.js"
+  "/Marussia_toys/precache-manifest.2acffbc996c670c8a01715c0e440044a.js"
 );
 
 self.addEventListener('message', (event) => {
