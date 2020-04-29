@@ -46,12 +46,12 @@ class App extends Component {
         <NavigationBar/>
           <Router>
             <Switch>
-              <Route exact path={"/"} component={ Home } />
-              <Route path={"/shop"} component={ Shop } />
-              <Route path={"/toys"} component={ Toys } />
-              <Route path={"/cacti"} component={ Cacti } />
-              <Route path={"/special"} component={ Special } />
-              <Route path={"/shop-item-page"} component={ ShopItemPage } />
+              <Route exact path={"https://terzi-vladislav.github.io/Marussia_toys/"} component={ Home } />
+              <Route path={"https://terzi-vladislav.github.io/Marussia_toys/shop"} component={ Shop } />
+              <Route path={"https://terzi-vladislav.github.io/Marussia_toys/toys"} component={ Toys } />
+              <Route path={"https://terzi-vladislav.github.io/Marussia_toys/cacti"} component={ Cacti } />
+              <Route path={"https://terzi-vladislav.github.io/Marussia_toys/special"} component={ Special } />
+              <Route path={"https://terzi-vladislav.github.io/Marussia_toys/shop-item-page"} component={ ShopItemPage } />
               <Route component={ NoMatch } />
             </Switch>
           </Router>
